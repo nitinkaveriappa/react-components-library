@@ -1,0 +1,9 @@
+# .npmignore 
+src
+examples
+.babelrc
+.gitignore
+.gitattributes
+.storybook
+stories
+webpack.config.js
