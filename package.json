@@ -46,7 +46,7 @@
     "@storybook/addon-links": "5.3.18",
     "@storybook/addons": "5.3.18",
     "@storybook/react": "5.3.18",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-loader": "8.1.0",
     "classnames": "2.2.6",
     "css-loader": "3.5.3",
